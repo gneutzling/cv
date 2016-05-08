@@ -1,8 +1,8 @@
 # Gabriel Neutzling
-**E-mail:** gabrielneutzling@gmail.com
-**Mobile:** +55 4891653232
-**Website:** http://gneutzling.com
-**Location:** Florianópolis - SC, Brazil
+**E-mail:** gabrielneutzling@gmail.com<br />
+**Mobile:** +55 4891653232<br />
+**Website:** http://gneutzling.com<br />
+**Location:** Florianópolis - SC, Brazil<br />
 
 I am a software developer since 2010 with emphasis on frontend development and a new lover of Lean Thinking and Agile methodologies. I like to deliver value with simple solutions that will be improved progressively.
 
@@ -12,7 +12,7 @@ I am looking for a position to work as a frontend developer and be closely with 
 
 
 ## Professional Experience
-#### Software Developer - Taller Digital Business <small>(June 2014 – Present)</small>
+#### Software Developer - Taller Digital Business (June 2014 – Present)
 I have been working with development of websites using Drupal focused in frontend, applying LEAN principles and Agile methodology.
 
 **Projects:**
@@ -21,20 +21,20 @@ I have been working with development of websites using Drupal focused in fronten
 - [Natura Consumidor Final](http://www.natura.com.br/)
 - [FIESC-SENAI Portal/Sistema Espaço do Estudante](http://estudante.sc.senai.br/)
 
-<small>**Stack:** Drupal, HTML, CSS, Javascript, jQuery, SASS, React, Protractor, BDD, Vagrant.</small>
+**Stack:** Drupal, HTML, CSS, Javascript, jQuery, SASS, React, Protractor, BDD, Vagrant.
 
 
-#### Frontend Developer - Sábia Experience S/A <small>(February 2014 – April 2014)</small>
+#### Frontend Developer - Sábia Experience S/A (February 2014 – April 2014)
 I've worked as a Angular developer in the views part, developing applications for a platform designed to allow the easy creation and editing of immersive experiences that enable the analysis and planning of future actions.
 
-<small>**Stack:** HTML, CSS, Javascript, jQuery, Angular, LESS.</small>
+**Stack:** HTML, CSS, Javascript, jQuery, Angular, LESS.
 
-#### Frontend Developer - Tiki <small>(October 2013 – February 2014)</small>
+#### Frontend Developer - Tiki (October 2013 – February 2014)
 Hired to move from Pelotas, RS to Florianópolis and integrate the frontend development team. During this time we have developed some apps, websites and e-commerce for local companies.
 
-<small>**Stack:** HTML, CSS, Javascript, jQuery, SASS, PHP, MySQL.</small>
+**Stack:** HTML, CSS, Javascript, jQuery, SASS, PHP, MySQL.
 
-#### Software Developer - Frontphant <small>(May 2013 – Present)</small>
+#### Software Developer - Frontphant (May 2013 – Present)
 Co-Founder and software developer working with web development. Frontphant is a group of independent frontend developers based on Brazil.
 
 **Projects:**
@@ -42,17 +42,17 @@ Co-Founder and software developer working with web development. Frontphant is a 
 - [Judith Saupper Website](http://judithsaupper.com/)
 - [CENTRO](centro.cx)
 
-<small>**Stack:** HTML, CSS, Javascript, jQuery, SASS, PHP, CakePHP, Wordpress, MySQL.</small>
+**Stack:** HTML, CSS, Javascript, jQuery, SASS, PHP, CakePHP, Wordpress, MySQL.
 
-#### Frontend Developer - Conrad Caine GmbH <small>(December 2010 – October 2013)</small>
+#### Frontend Developer - Conrad Caine GmbH (December 2010 – October 2013)
 I have worked as a frontend developer in several projects for internacional companies as Siemens, Allianz, Sky, Red Bull and others. In that time I've developed websites, blogs, Facebook apps, etc.
 
-<small>**Stack:** HTML, CSS, Javascript, jQuery, SASS, LESS, Facebook API, Youtube API, Wordpress.</small>
+**Stack:** HTML, CSS, Javascript, jQuery, SASS, LESS, Facebook API, Youtube API, Wordpress.
 
-#### Trainee - IFSUL <small>(October 2010 – December 2010)</small>
+#### Trainee - IFSUL (October 2010 – December 2010)
 Trainee in the technology department of institute. I have worked closely with the backend team, being responsible for the HTML and CSS development of internal systems.
 
-<small>**Stack:** HTML, CSS, Javascript, jQuery.</small>
+**Stack:** HTML, CSS, Javascript, jQuery.
 
 
 ## Education
@@ -72,12 +72,12 @@ Team members: [@bdsmoura](https://github.com/bdsmoura), [@dreinke](https://githu
 
 
 ## Events
-Agile Floripa <small>(2016)</small>
-Brazil JS <small>(2013, 2014)</small>
-EDTED <small>(2010)</small>
-Floripa JS Meetup <small>(2014, 2015, 2016)</small>
-Front in Floripa <small>(2014)</small>
-RSJS <small>(2012)</small>
-Social Good Brasil <small>(2014)</small>
-Tchelinux <small>(2008, 2010, 2011)</small>
-TDC <small>(2014)</small>
+Agile Floripa (2016)<br />
+Brazil JS (2013, 2014)<br />
+EDTED (2010)<br />
+Floripa JS Meetup (2014, 2015, 2016)<br />
+Front in Floripa (2014)<br />
+RSJS (2012)<br />
+Social Good Brasil (2014)<br />
+Tchelinux (2008, 2010, 2011)<br />
+TDC (2014)<br />
