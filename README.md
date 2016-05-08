@@ -11,6 +11,10 @@ I am a software developer since 2010 with emphasis on frontend development and a
 I am looking for a position to work as a frontend developer and be closely with backend technologies in order to become a fullstack developer. I'm interested in being part of a team that is looking to create creative products and innovative experiences.
 
 
+## Education
+2012-Current | Undergraduate degree in Software Analysis and Development
+
+
 ## Professional Experience
 #### Software Developer - Taller Digital Business (June 2014 – Present)
 I have been working with development of websites using Drupal focused in frontend, applying LEAN principles and Agile methodology.
@@ -55,10 +59,6 @@ Trainee in the technology department of institute. I have worked closely with th
 **Stack:** HTML, CSS, Javascript, jQuery.
 
 
-## Education
-2012-Current | Undergraduate degree in Software Analysis and Development
-
-
 ## Projects and Community Contribution
 #### Protractor Drupal Framework
 A test automation framework for Drupal apps, written using Protractor and the PageObjects pattern.
@@ -69,15 +69,3 @@ Team members: [@gneutzling](https://github.com/gneutzling), [@lucasconstantino](
 To build an app in 5 hours, that was the challenge. That is how devoir.nu came to life, providing an easier way to visualize Facebook events.
 
 Team members: [@bdsmoura](https://github.com/bdsmoura), [@dreinke](https://github.com/dreinke), [@ggrana](https://github.com/ggrana), [@gneutzling](https://github.com/gneutzling)
-
-
-## Events
-Agile Floripa (2016)<br />
-Brazil JS (2013, 2014)<br />
-EDTED (2010)<br />
-Floripa JS Meetup (2014, 2015, 2016)<br />
-Front in Floripa (2014)<br />
-RSJS (2012)<br />
-Social Good Brasil (2014)<br />
-Tchelinux (2008, 2010, 2011)<br />
-TDC (2014)<br />
