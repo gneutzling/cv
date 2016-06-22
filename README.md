@@ -16,8 +16,8 @@ I am looking for a position to work as a frontend developer and be closely with 
 
 
 ## Professional Experience
-#### Software Developer - Taller Digital Business (June 2014 – Present)
-I have been working with development of websites using Drupal focused in frontend, applying LEAN principles and Agile methodology.
+#### Software Developer - Taller Digital Business (June 2014 – June 2016)
+I've worked with development of websites using Drupal focused in frontend, applying Lean principles and Agile methodologies.
 
 **Projects:**
 
