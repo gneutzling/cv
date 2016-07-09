@@ -16,7 +16,12 @@ I am looking for a position to work as a frontend developer and be closely with 
 
 
 ## Professional Experience
-#### Software Developer - Taller Digital Business (June 2014 – June 2016)
+#### Software Developer - Cheesecake Labs (July 2016 – Present)
+Developer with emphasis on frontend development.
+
+**Stack:** React, Redux, ES6, BabelJS, Javascript, Bootstrap, SASS, GIT.
+
+#### Software Developer - Taller Digital Business (June 2014 – July 2016)
 I've worked with development of websites using Drupal focused in frontend, applying Lean principles and Agile methodologies.
 
 **Projects:**
@@ -25,18 +30,18 @@ I've worked with development of websites using Drupal focused in frontend, apply
 - [Natura Consumidor Final](http://www.natura.com.br/)
 - [FIESC-SENAI Portal/Sistema Espaço do Estudante](http://estudante.sc.senai.br/)
 
-**Stack:** Drupal, HTML, CSS, Javascript, jQuery, SASS, React, Protractor, BDD, Vagrant.
+**Stack:** Drupal, HTML, CSS, Javascript, jQuery, SASS, Bootstrap, React, Protractor, BDD, GIT, Vagrant.
 
 
 #### Frontend Developer - Sábia Experience S/A (February 2014 – April 2014)
 I've worked as a Angular developer in the views part, developing applications for a platform designed to allow the easy creation and editing of immersive experiences that enable the analysis and planning of future actions.
 
-**Stack:** HTML, CSS, Javascript, jQuery, Angular, LESS.
+**Stack:** HTML, CSS, Javascript, jQuery, Angular, LESS, GIT.
 
 #### Frontend Developer - Tiki (October 2013 – February 2014)
 Hired to move from Pelotas, RS to Florianópolis and integrate the frontend development team. During this time we have developed some apps, websites and e-commerce for local companies.
 
-**Stack:** HTML, CSS, Javascript, jQuery, SASS, PHP, MySQL.
+**Stack:** HTML, CSS, Javascript, jQuery, SASS, PHP, MySQL, GIT.
 
 #### Software Developer - Frontphant (May 2013 – Present)
 Co-Founder and software developer working with web development. Frontphant is a group of independent frontend developers based on Brazil.
@@ -46,12 +51,12 @@ Co-Founder and software developer working with web development. Frontphant is a 
 - [Judith Saupper Website](http://judithsaupper.com/)
 - [CENTRO](centro.cx)
 
-**Stack:** HTML, CSS, Javascript, jQuery, SASS, PHP, CakePHP, Wordpress, MySQL.
+**Stack:** HTML, CSS, Javascript, jQuery, SASS, LESS, PHP, CakePHP, Wordpress, MySQL, GIT.
 
 #### Frontend Developer - Conrad Caine GmbH (December 2010 – October 2013)
 I have worked as a frontend developer in several projects for internacional companies as Siemens, Allianz, Sky, Red Bull and others. In that time I've developed websites, blogs, Facebook apps, etc.
 
-**Stack:** HTML, CSS, Javascript, jQuery, SASS, LESS, Facebook API, Youtube API, Wordpress.
+**Stack:** HTML, CSS, Javascript, jQuery, SASS, LESS, Facebook API, Youtube API, Wordpress, GIT, SVN.
 
 #### Trainee - IFSUL (October 2010 – December 2010)
 Trainee in the technology department of institute. I have worked closely with the backend team, being responsible for the HTML and CSS development of internal systems.
