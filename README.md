@@ -1,14 +1,13 @@
 # Gabriel Neutzling
 **E-mail:** gabrielneutzling@gmail.com<br />
-**Mobile:** +55 4891653232<br />
-**Website:** http://gneutzling.com<br />
+**Mobile:** +55 (48) 99165.3232<br />
 **Location:** Florianópolis - SC, Brazil<br />
 
 I am a software developer since 2010 with emphasis on frontend development and a new lover of Lean Thinking and Agile methodologies. I like to deliver value with simple solutions that will be improved progressively.
 
 
 ## Objective
-I am looking for a position to work as a frontend developer and be closely with backend technologies in order to become a fullstack developer. I'm interested in being part of a team that is looking to create creative products and innovative experiences.
+I am looking for a position to work as a frontend developer and be closely with backend technologies in order to become a fullstack developer. I'm interested in being part of a team that is looking to create creative products and innovative experiences. In addition I would like to participate in the software development process, contributing with my experience in Agile.
 
 
 ## Education
@@ -17,9 +16,9 @@ I am looking for a position to work as a frontend developer and be closely with 
 
 ## Professional Experience
 #### Software Developer - Cheesecake Labs (July 2016 – Present)
-Developer with emphasis on frontend development.
+Currently I am working on projects for customers based in San Francisco. The most of them are MVPs where we can explore new technologies. The development process envolves PRs and code review on Github. Usually I also review code related to frontend - mainly JS and React.
 
-**Stack:** React, Redux, ES6, BabelJS, Javascript, Bootstrap, SASS, GIT.
+**Stack:** React, Redux, ES6, Immutable, BabelJS, Lint, Javascript, CSS Modules, PostCSS, SASS, GIT.
 
 #### Software Developer - Taller Digital Business (June 2014 – July 2016)
 I've worked with development of websites using Drupal focused in frontend, applying Lean principles and Agile methodologies.
