@@ -15,10 +15,10 @@ I am looking for a position to work as a frontend developer and be closely with 
 
 
 ## Professional Experience
-#### Software Developer - Cheesecake Labs (July 2016 – Present)
-Currently I am working on projects for customers based in San Francisco. The most of them are MVPs where we can explore new technologies. The development process envolves PRs and code review on Github. Usually I also review code related to frontend - mainly JS and React.
+#### Software Developer - Cheesecake Labs (July 2016 – February 2017)
+Worked in projects for customers based in San Francisco where the most of them were MVP. The development process was based with pull request and code review on Github and usually made code reviews related to Javascript using React.
 
-**Stack:** React, Redux, ES6, Immutable, BabelJS, Lint, Javascript, CSS Modules, PostCSS, SASS, GIT.
+**Stack:** React, Redux, Webpack, ES6, Immutable, BabelJS, ESLint, Javascript, CSS Modules, PostCSS, SASS, GIT.
 
 #### Software Developer - Taller Digital Business (June 2014 – July 2016)
 I've worked with development of websites using Drupal focused in frontend, applying Lean principles and Agile methodologies.
