@@ -1,6 +1,7 @@
 # Gabriel Neutzling
 **E-mail:** gabrielneutzling@gmail.com<br />
-**Mobile:** +55 (48) 99165.3232<br />
+**Github:** github.com/gneutzling<br />
+**Mobile:** +55 48 991653232<br />
 **Location:** Florianópolis - SC, Brazil<br />
 
 I am a software developer with emphasis on frontend development and a new lover of Agile methodologies. I like to deliver value with simple solutions that will be improved progressively.
