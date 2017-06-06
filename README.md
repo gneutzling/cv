@@ -12,7 +12,7 @@ I am looking for a position to work as a frontend developer and be closely with 
 
 
 ## Education
-2012-Current | Undergraduate degree in Software Analysis and Development
+Undergraduate degree in Software Analysis and Development
 
 
 ## Professional Experience
