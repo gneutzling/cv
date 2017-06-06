@@ -16,6 +16,11 @@ I am looking for a position to work as a frontend developer and be closely with 
 
 
 ## Professional Experience
+#### Software Developer - Picter (February 2017 – Currently)
+picter.com
+
+**Stack:** React, Redux, Webpack, ES6, Immutable, Jest, Enzyme, EmberJS, BabelJS, ESLint, Javascript, Stylus, SASS, GIT.
+
 #### Software Developer - Cheesecake Labs (July 2016 – February 2017)
 Worked in projects for customers based in San Francisco where the most of them were MVP. The development process was based with pull request and code review on Github and usually made code reviews related to Javascript using React.
 
