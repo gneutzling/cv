@@ -16,7 +16,13 @@ Undergraduate degree in Software Analysis and Development
 
 
 ## Professional Experience
-#### Software Developer - Picter (February 2017 – Currently)
+#### Frontend Engineer - Ignus (February 2018 – Currently)
+ignusdigital.com
+
+**Stack:** React, GraphQL, Apollo, Redux, Webpack, styled components, CSS in JS, Jest, Enzyme, BabelJS, ESLint, Javascript, GIT.
+
+
+#### Software Developer - Picter (February 2017 – February 2018)
 picter.com
 
 **Stack:** React, Redux, Webpack, ES6, Immutable, Jest, Enzyme, EmberJS, BabelJS, ESLint, Javascript, Stylus, SASS, GIT.
