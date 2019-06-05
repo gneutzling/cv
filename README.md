@@ -1,10 +1,10 @@
 # Gabriel Neutzling
-**E-mail:** gabrielneutzling@gmail.com<br />
+**E-mail:** gneutzling@gmail.com<br />
 **Github:** github.com/gneutzling<br />
 **Mobile:** +55 48 991653232<br />
-**Location:** Florianópolis - SC, Brazil<br />
+**Location:** Brazil<br />
 
-I am a software developer with emphasis on frontend development and a new lover of Agile methodologies. I like to deliver value with simple solutions that will be improved progressively.
+I am a professional with 10 years of experience in frontend development focused in build great products for great clients with great colleagues. I am focused in the Javascript and React stack and always looking for new tools, modules and ways to improve my work. In addition I like environments where we can apply the practical principles of Agile and Lean methodologies in the day-by-day. I believe that we can do a great job and better place to work when we have a self organized team. 
 
 
 ## Objective
@@ -16,14 +16,13 @@ Undergraduate degree in Software Analysis and Development
 
 
 ## Professional Experience
-#### Frontend Engineer - Ignus (February 2018 – Currently)
-ignusdigital.com
+#### Frontend Engineer - Ignus (February 2018 – Currently) - Remote
+I am currently working for Ignus Digital, where we build products that impact people. Currently I am building a product using React, Apollo, Graphql, Jest, react-testing-library and other technologies related to Javascript.
 
 **Stack:** React, GraphQL, Apollo, Redux, Webpack, styled components, CSS in JS, Jest, Enzyme, BabelJS, ESLint, Javascript, GIT.
 
-
-#### Software Developer - Picter (February 2017 – February 2018)
-picter.com
+#### Software Developer - Picter (February 2017 – February 2018) - Remote
+Picter is a product built for photographers where they can find challenges and submit their pictures. It was an amazing experience working with a team localized in Germany. I was the first developer there from brazil and found other amazing folks to work with us in Brazil, remotely. 
 
 **Stack:** React, Redux, Webpack, ES6, Immutable, Jest, Enzyme, EmberJS, BabelJS, ESLint, Javascript, Stylus, SASS, GIT.
 
