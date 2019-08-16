@@ -4,11 +4,11 @@
 **Mobile:** +55 48 991653232<br />
 **Location:** Brazil<br />
 
-I am a professional with 10 years of experience in frontend development focused in build great products for great clients with great colleagues. I am focused in the Javascript and React stack and always looking for new tools, modules and ways to improve my work. In addition I like environments where we can apply the practical principles of Agile and Lean methodologies in the day-by-day. I believe that we can do a great job and better place to work when we have a self organized team. 
+I have been working with frontend development for the last 10 years, focused in build great products for different type of customers. I am focused in the world of Javascript, including ReactJS and always looking for new tools, modules and ways to improve my skills and sharing knowledge with the whole team. I like environments where we can apply the practical principles of Agile and Lean methodologies in the day-by-day. In addition I believe that we can have better place to work when we have self organizing teams. 
 
 
 ## Objective
-I am looking for a position to work as a frontend developer and be closely with backend technologies in order to become a fullstack developer. I'm interested in being part of a team that is looking to create creative products and innovative experiences. In addition I would like to participate in the software development process, contributing with my experience in Agile.
+I am looking for a position as frontend engineer where I can work closely with backend technologies, in order to become a fullstack developer. I'm interested in being part of a team that is looking to build creative products and innovative experiences. In addition I would like to contribute with my experience in Agile.
 
 
 ## Education
