@@ -16,10 +16,10 @@ Undergraduate degree in Software Analysis and Development
 
 
 ## Professional Experience
-#### Frontend Engineer - Ignus (February 2018 – Currently) - Remote
-I am currently working for Ignus Digital, where we build products that impact people. Currently I am building a product using React, Apollo, Graphql, Jest, react-testing-library and other technologies related to Javascript.
+#### Frontend Engineer - Ignus (February 2018 – August 2019) - Remote
+Ignus Digital builds products that impact people. Together we created products using React, Apollo, GraphQL, Jest, react-testing-library and other technologies related to Javascript.
 
-**Stack:** React, GraphQL, Apollo, Redux, Webpack, styled components, CSS in JS, Jest, Enzyme, BabelJS, ESLint, Javascript, GIT.
+**Stack:** React, GraphQL, Apollo, Redux, Webpack, Styled Components, CSS in JS, Jest, Enzyme, BabelJS, ESLint, Javascript, GIT.
 
 #### Software Developer - Picter (February 2017 – February 2018) - Remote
 Picter is a product built for photographers where they can find challenges and submit their pictures. It was an amazing experience working with a team localized in Germany. I was the first developer there from brazil and found other amazing folks to work with us in Brazil, remotely. 
